@@ -1,4 +1,4 @@
-# My-website-<!DOCTYPE html>
+# Buy from jgetmoni-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -43,7 +43,7 @@
 
   <header>
     <h1>Welcome to Jim baby get paid</h1>
-    <p>Everything is inside one HTML file 🚀</p>
+    <p>Up!Up!Up@🚀</p>
   </header>
 
   <main>
